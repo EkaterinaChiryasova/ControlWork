@@ -1,5 +1,6 @@
 ﻿/* Решение задачи*/
 
+
 string[] arrayOne = new string[] {"Kazan", "BMW", "Hello", "-2", "one", ":(", "{}", "1234", "kat"};
 string[] arrayTwo = new string[arrayOne.Length];
 
